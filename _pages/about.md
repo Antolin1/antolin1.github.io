@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a predoctoral researcher at Universidad de Murcia, where I research about topics realted to Model Driven Engineering (MDE) and Machine Learning. I am also interested in model generators, recommender systems for Software Engineering, natural language processing and deep learning.
+I’m a predoctoral researcher at Universidad de Murcia under the supervision of [Jesús Sánchez Cuadrado](http://sanchezcuadrado.es/). Basically, I research about topics realted to Machine Learning for Software Engineering. I am also interested in deep learning, natural language processing and recommender systems.
 
-Title
-======
-Hi
+Regarding my hobbies, I am in love with anime and manga (in fact, you can check [myanimelist](https://myanimelist.net/profile/Antolin)). I also like to squat, bench press, and DL to keep fit.
 
