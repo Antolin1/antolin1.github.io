@@ -1,7 +1,7 @@
 ---
 title: "MAR: a structure-based search engine for models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/mar-models
 excerpt: 'This paper is about a search engine for models.'
 date: 2020-10-01
 venue: '23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems'
@@ -9,7 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2008.11858.pdf'
 citation: 
 ---
 
-The availability of shared software models provides opportunities
+**Abstract:** The availability of shared software models provides opportunities
 for reusing, adapting and learning from them. Public models are
 typically stored in a variety of locations, including model repositories, regular source code repositories, web pages, etc. To profit
 from them developers need effective search mechanisms to locate
